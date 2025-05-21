@@ -26,8 +26,12 @@ A simple and interactive web-based Password Generator that allows users to creat
 ##🧠 Logic Behind the Scenes
 
 Dynamically builds a character set based on selected checkboxes.
+
 Randomly selects characters to build a password of selected length.
+
 Updates the strength bar based on password length.
+
 Uses navigator.clipboard.writeText() to copy passwords to clipboard.
+
 Material icons (content_copy, check) enhance UI interaction.
 
